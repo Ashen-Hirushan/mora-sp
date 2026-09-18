@@ -67,3 +67,16 @@ competition_data/
     |   `-- 480_noise.png
     |
     `-- denoised/
+
+
+submission informations
+
+Git Commit SHA:aafa5b1671c432ec142d01a647b50871c2749e2e
+
+Model Checkpoint:nafnet_small.pt
+
+Model Drive Link:N/A (committed to repository)
+
+Expected Model Path:scripts/weights/nafnet_small.pt
+
+Model SHA-256 (nafnet_small.pt): bb1245bcb2eb140cfa193a85e000b46e85c0776d7ff531bc202e4f15bac889c9
