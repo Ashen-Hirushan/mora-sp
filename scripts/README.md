@@ -105,7 +105,7 @@ Model Checkpoint:
 `nafnet_small.pt`
 
 Model Drive Link:
-N/A committed to the repository>
+https://drive.google.com/drive/folders/1kaE2ieG-2N5xmS5C2wu18QIdIaQivZyi?usp=drive_link
 
 Expected Model Path:
 `scripts/weights/nafnet_small.pt`
