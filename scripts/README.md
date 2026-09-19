@@ -105,10 +105,10 @@ Model Checkpoint:
 `nafnet_small.pt`
 
 Model Drive Link:
-`<link or N/A if committed to the repository>`
+N/A committed to the repository>
 
 Expected Model Path:
 `scripts/weights/nafnet_small.pt`
 
 Model SHA-256:
-`<SHA-256>`
+bb1245bcb2eb140cfa193a85e000b46e85c0776d7ff531bc202e4f15bac889c9 
