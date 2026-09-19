@@ -99,7 +99,7 @@ images are never used to train the reported model.
 ## Official Submission Information
 
 Git Commit SHA:
-`<commit SHA>`
+a3d67fdd432b630bec895383dd1a8709d517e72b
 
 Model Checkpoint:
 `nafnet_small.pt`
